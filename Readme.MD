@@ -1,1 +1,0 @@
-Project dedicated to Django
